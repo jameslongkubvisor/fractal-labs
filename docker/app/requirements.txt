@@ -3,6 +3,14 @@ Django>=3.0,<4.0
 gunicorn==20.1.0
 psycopg2-binary==2.9.1
 
+# S3 Requirements
+boto 
+boto3 
+cryptography 
+urllib3 
+requests
+djangorestframework
+
 # Testing
 coverage>=6.0,<7.0
 pytest-django>=4.0,<5.0
