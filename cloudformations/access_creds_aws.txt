@@ -1,0 +1,15 @@
+User: user-interview-django-large-uploads
+Access key ID:AKIAT63OQTRW3MT3ZSZT
+Secret access key: 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
+
+AWS_UPLOAD_BUCKET = interview-django-large-uploads
+
+AWS_UPLOAD_USERNAME = user-interview-django-large-uploads
+
+AWS_UPLOAD_GROUP = group-interview-django-large-uploads
+
+AWS_UPLOAD_REGION = 'af-south-1'
+
+AWS_UPLOAD_ACCESS_KEY_ID = AKIAT63OQTRW3MT3ZSZT
+
+AWS_UPLOAD_SECRET_KEY = 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

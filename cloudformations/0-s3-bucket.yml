@@ -1,0 +1,12 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: Creates required S3 buckets.
+Parameters:
+  EnvironmentName:
+    Description: An environment name that is prefixed to resource names
+    Type: String
+
+Resources:
+  DeploymentBucket:
+    Type: 'AWS::S3::Bucket'
+    Properties:
+      BucketName: interview-django-large-uploads

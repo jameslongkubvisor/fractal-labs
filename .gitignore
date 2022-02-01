@@ -2,3 +2,4 @@
 __pycache__
 
 db.sqlite3
+cloudformations/access_creds_aws.txt
